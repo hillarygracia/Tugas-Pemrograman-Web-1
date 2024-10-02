@@ -1,2 +1,2 @@
-# Tugas-Pemrograman-Web-1
+# Tugas-Pemrograman-Web
 Membuat Form Registrasi
